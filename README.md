@@ -41,6 +41,6 @@ Option 3: Added hidden layer and increased neurons along with new binned ‘ASK_
 
 
 ## Summary: 
-Model was not able to achieve the target model performance of 75% accuracy. Even, after several optimization attempt model performance did not improve. 
+Model was not able to achieve the target model performance of 75% accuracy. Even, after several optimization attempts model performance did not improve. 
 Random Forest Classifier might be a better fit to achieve the target performance due to its ability.
 
