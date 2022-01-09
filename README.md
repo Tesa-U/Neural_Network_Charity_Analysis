@@ -8,11 +8,14 @@ Using machine learning algorithms and neural networks creating a binary classifi
 
 o	Data Preprocessing
 1.	The variable considered the target of my model is IS_SUCCESSFUL.
-![plot](“target.png)
+
+![plot](target.png)
 
 2.	The variables that are considered the features of my model are APPLICATION_TYPE, AFFILIATION, CLASSIFICATION, USE_CASE, ORGANIZATION, INCOME_AMT, SPECIAL_CONSIDERATIONS, and ASK_AMT. 
+
 ![plot](feaures.png)
 3.	The variables that are neither target nor features and were removed from the input data are EIN and NAME.
+
 ![plot](removed.png)
 
 
