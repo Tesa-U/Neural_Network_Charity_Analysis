@@ -13,7 +13,7 @@ Using machine learning algorithms and neural networks creating a binary classifi
 
 2.	The variables that are considered the features of my model are APPLICATION_TYPE, AFFILIATION, CLASSIFICATION, USE_CASE, ORGANIZATION, INCOME_AMT, SPECIAL_CONSIDERATIONS, and ASK_AMT.
 
-![plot](feaures.png)
+![plot](feaure.png)
 
 3.	The variables that are neither target nor features and were removed from the input data are EIN and NAME.
 
